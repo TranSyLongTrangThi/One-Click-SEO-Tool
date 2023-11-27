@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Seo Tool",
+    "description": "Hỗ trợ tận răng cho SEOer, nơi đây có tất cả những gì bạn cần, nhưng gì bạn cần tôi đều đáp ứng ,nếu tôi không có tức bạn không cần",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
